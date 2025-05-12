@@ -1,0 +1,14 @@
+C:\Users\Anatoli\source\repos\Book\Book\bin\Debug\net8.0\Task3.exe
+C:\Users\Anatoli\source\repos\Book\Book\bin\Debug\net8.0\Task3.deps.json
+C:\Users\Anatoli\source\repos\Book\Book\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Users\Anatoli\source\repos\Book\Book\bin\Debug\net8.0\Task3.dll
+C:\Users\Anatoli\source\repos\Book\Book\bin\Debug\net8.0\Task3.pdb
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\Task3.dll
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\refint\Task3.dll
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\Task3.pdb
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Users\Anatoli\source\repos\Book\Book\obj\Debug\net8.0\ref\Task3.dll
